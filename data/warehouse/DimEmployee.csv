@@ -1,0 +1,11 @@
+sk_employee,bk_employee_id,Employee_name,title,city,country,sales_region,territories
+1,,Nancy Freehafer,,Seattle,,No Region,No Territory
+2,1.0,Nancy Davolio,Sales Representative,Seattle,USA,Eastern,"Wilton, Neward"
+3,2.0,Andrew Fuller,"Vice President, Sales",Tacoma,USA,Eastern,"Westboro, Bedford, Georgetow, Boston, Cambridge, Braintree, Louisville"
+4,3.0,Janet Leverling,Sales Representative,Kirkland,USA,Southern,"Atlanta, Savannah, Orlando, Tampa"
+5,4.0,Margaret Peacock,Sales Representative,Redmond,USA,Eastern,"Rockville, Greensboro, Cary"
+6,5.0,Steven Buchanan,Sales Manager,London,UK,Eastern,"Providence, Morristown, Edison, New York, New York, Mellvile, Fairport"
+7,6.0,Michael Suyama,Sales Representative,London,UK,Western,"Phoenix, Scottsdale, Bellevue, Redmond, Seattle"
+8,7.0,Robert King,Sales Representative,London,UK,Western,"Hoffman Estates, Chicago, Denver, Colorado Springs, Santa Monica, Menlo Park, San Francisco, Campbell, Santa Clara, Santa Cruz"
+9,8.0,Laura Callahan,Inside Sales Coordinator,Seattle,USA,Northern,"Philadelphia, Beachwood, Findlay, Racine"
+10,9.0,Anne Dodsworth,Sales Representative,London,UK,Northern,"Hollis, Portsmouth, Southfield, Troy, Bloomfield Hills, Roseville, Minneapolis"

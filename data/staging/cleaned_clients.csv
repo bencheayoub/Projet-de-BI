@@ -1,0 +1,93 @@
+sk_client,bk_customer_id,company_name,city,country,region
+1,NAN,,Seattle,,
+2,ALFKI,Alfreds Futterkiste,Berlin,Germany,
+3,ANATR,Ana Trujillo Emparedados y helados,M xico D.F.,Mexico,
+4,ANTON,Antonio Moreno Taquer a,M xico D.F.,Mexico,
+5,AROUT,Around the Horn,London,UK,
+6,BERGS,Berglunds snabbk p,Lule ,Sweden,
+7,BLAUS,Blauer See Delikatessen,Mannheim,Germany,
+8,BLONP,Blondesddsl p re et fils,Strasbourg,France,
+9,BOLID,B lido Comidas preparadas,Madrid,Spain,
+10,BONAP,Bon app',Marseille,France,
+11,BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,BC
+12,BSBEV,B's Beverages,London,UK,
+13,CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,
+14,CENTC,Centro comercial Moctezuma,M xico D.F.,Mexico,
+15,CHOPS,Chop-suey Chinese,Bern,Switzerland,
+16,COMMI,Com rcio Mineiro,Sao Paulo,Brazil,SP
+17,CONSH,Consolidated Holdings,London,UK,
+18,DRACD,Drachenblut Delikatessen,Aachen,Germany,
+19,DUMON,Du monde entier,Nantes,France,
+20,EASTC,Eastern Connection,London,UK,
+21,ERNSH,Ernst Handel,Graz,Austria,
+22,FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,SP
+23,FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain,
+24,FOLIG,Folies gourmandes,Lille,France,
+25,FOLKO,Folk och f  HB,Br cke,Sweden,
+26,FRANK,Frankenversand,M nchen,Germany,
+27,FRANR,France restauration,Nantes,France,
+28,FRANS,Franchi S.p.A.,Torino,Italy,
+29,FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,
+30,GALED,Galer a del gastr nomo,Barcelona,Spain,
+31,GODOS,Godos Cocina T pica,Sevilla,Spain,
+32,GOURL,Gourmet Lanchonetes,Campinas,Brazil,SP
+33,GREAL,Great Lakes Food Market,Eugene,USA,OR
+34,GROSR,GROSELLA-Restaurante,Caracas,Venezuela,DF
+35,HANAR,Hanari Carnes,Rio de Janeiro,Brazil,RJ
+36,HILAA,HILARION-Abastos,San Crist bal,Venezuela,T chira
+37,HUNGC,Hungry Coyote Import Store,Elgin,USA,OR
+38,HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,Co. Cork
+39,ISLAT,Island Trading,Cowes,UK,Isle of Wight
+40,KOENE,K niglich Essen,Brandenburg,Germany,
+41,LACOR,La corne d'abondance,Versailles,France,
+42,LAMAI,La maison d'Asie,Toulouse,France,
+43,LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,BC
+44,LAZYK,Lazy K Kountry Store,Walla Walla,USA,WA
+45,LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,
+46,LETSS,Let's Stop N Shop,San Francisco,USA,CA
+47,LILAS,LILA-Supermercado,Barquisimeto,Venezuela,Lara
+48,LINOD,LINO-Delicateses,I. de Margarita,Venezuela,Nueva Esparta
+49,LONEP,Lonesome Pine Restaurant,Portland,USA,OR
+50,MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,
+51,MAISD,Maison Dewey,Bruxelles,Belgium,
+52,MEREP,M re Paillarde,Montr al,Canada,Qu bec
+53,MORGK,Morgenstern Gesundkost,Leipzig,Germany,
+54,NORTS,North/South,London,UK,
+55,OCEAN,Oc ano Atl ntico Ltda.,Buenos Aires,Argentina,
+56,OLDWO,Old World Delicatessen,Anchorage,USA,AK
+57,OTTIK,Ottilies K seladen,K ln,Germany,
+58,PARIS,Paris sp cialit s,Paris,France,
+59,PERIC,Pericles Comidas cl sicas,M xico D.F.,Mexico,
+60,PICCO,Piccolo und mehr,Salzburg,Austria,
+61,PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,
+62,QUEDE,Que Del cia,Rio de Janeiro,Brazil,RJ
+63,QUEEN,Queen Cozinha,Sao Paulo,Brazil,SP
+64,QUICK,QUICK-Stop,Cunewalde,Germany,
+65,RANCH,Rancho grande,Buenos Aires,Argentina,
+66,RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,NM
+67,REGGC,Reggiani Caseifici,Reggio Emilia,Italy,
+68,RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,RJ
+69,RICSU,Richter Supermarkt,Gen ve,Switzerland,
+70,ROMEY,Romero y tomillo,Madrid,Spain,
+71,SANTG,Sant  Gourmet,Stavern,Norway,
+72,SAVEA,Save-a-lot Markets,Boise,USA,ID
+73,SEVES,Seven Seas Imports,London,UK,
+74,SIMOB,Simons bistro,Kobenhavn,Denmark,
+75,SPECD,Sp cialit s du monde,Paris,France,
+76,SPLIR,Split Rail Beer & Ale,Lander,USA,WY
+77,SUPRD,Supr mes d lices,Charleroi,Belgium,
+78,THEBI,The Big Cheese,Portland,USA,OR
+79,THECR,The Cracker Box,Butte,USA,MT
+80,TOMSP,Toms Spezialit ten,M nster,Germany,
+81,TORTU,Tortuga Restaurante,M xico D.F.,Mexico,
+82,TRADH,Tradi  o Hipermercados,Sao Paulo,Brazil,SP
+83,TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,WA
+84,VAFFE,Vaffeljernet, rhus,Denmark,
+85,VICTE,Victuailles en stock,Lyon,France,
+86,VINET,Vins et alcools Chevalier,Reims,France,
+87,WANDK,Die Wandernde Kuh,Stuttgart,Germany,
+88,WARTH,Wartian Herkku,Oulu,Finland,
+89,WELLI,Wellington Importadora,Resende,Brazil,SP
+90,WHITC,White Clover Markets,Seattle,USA,WA
+91,WILMK,Wilman Kala,Helsinki,Finland,
+92,WOLZA,Wolski  Zajazd,Warszawa,Poland,
